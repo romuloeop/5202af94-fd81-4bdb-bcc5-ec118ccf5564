@@ -1,0 +1,27 @@
+{
+  "name": "happeotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js",
+    "test": "jest"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/romuloeop/5202af94-fd81-4bdb-bcc5-ec118ccf5564.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romuloeop/5202af94-fd81-4bdb-bcc5-ec118ccf5564/issues"
+  },
+  "homepage": "https://github.com/romuloeop/5202af94-fd81-4bdb-bcc5-ec118ccf5564#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
